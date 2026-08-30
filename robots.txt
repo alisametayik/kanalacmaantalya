@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.antalyakanalustasi.com/sitemap.xml
+Sitemap: https://antalyakanalacma.com/sitemap.xml
